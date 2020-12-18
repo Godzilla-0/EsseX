@@ -1,4 +1,4 @@
-![Hinami](https://images6.alphacoders.com/917/917511.jpg)
+![Hinami](https://telegra.ph/file/4b13bef96b1cad14d8d0c.jpg)
 # EsseX
 A telegram bot to fetch anime, character and manga info.
 
