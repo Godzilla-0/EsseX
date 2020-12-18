@@ -24,7 +24,7 @@ A telegram bot to fetch anime, character and manga info.
 
 
 *How to run this bot*
-- `git clone https://github.com/Dank-del/EsseX`
+- `git clone https://github.com/Godzilla-0/EsseX`
 - `cd EsseX`
 - `pip3 install -r requirements.txt`
 - `cp sample_config.py config.py` and satisfy the values in `config.py`
