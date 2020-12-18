@@ -7,4 +7,4 @@ sqlalchemy
 psycopg2-binary
 telegraph==1.4.1
 requests==2.24.0
-python==3.8
+python
